@@ -7,4 +7,4 @@ void gotoxy(int x, int y){
     pos.X = x;
     pos.Y = y;
     SetConsoleCursorPosition(consoleHandle, pos);
-}
+} 
